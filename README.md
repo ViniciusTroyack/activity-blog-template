@@ -20,7 +20,7 @@ Você vai receber um repositório já iniciado, com uma estrutura base de projet
 
 Você também encontra a imagem do template dentro do repositório, dentro da pasta `img`, com o nome de `blog-template.png`
 
-[Wireframe](./assets/img/blog-template.png)
+[Wireframe](https://gitlab.com/kenzie-academy-brasil/se/fe/sprint-3-css-week/activity-blog-template/-/raw/master/assets/img/blog-template.png)
 
 ### Repositório
 
