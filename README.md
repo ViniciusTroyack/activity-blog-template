@@ -6,7 +6,7 @@ Você vai receber um wireframe, um esqueleto com a disposição prevista para os
 
 ### Projeto:
 
-Você vai receber um repositório já iniciado, com uma estrutura base de projeto. Os arquivos HTML e CSS está apenas iniciados, então você ficou respoável pela estruturação, tanto dos elementos quando do arquivo css. Faça o fork do repositório fornecido, e continue a partir dai.
+Você vai receber um repositório já iniciado, com uma estrutura base de projeto. Os arquivos HTML e CSS está apenas iniciados, então você ficou responsável pela estruturação, tanto dos elementos quando do arquivo css. Faça o fork do repositório fornecido, e continue a partir dai.
 
 - README.md
 - index.html
