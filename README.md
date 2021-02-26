@@ -18,7 +18,7 @@ Você vai receber um repositório já iniciado, com uma estrutura base de projet
 
 ### Você vai utilizar o seguinte layout como base:
 
-Você também encontra a imagem do template dentro do repositório, dentro da pasta `img`, com o nome de `blog-template.png`
+Você também encontra a imagem do template dentro do repositório, dentro da pasta `img`, com o nome de `blog-template.png`.
 
 [Wireframe](./assets/img/blog-template.png)
 
